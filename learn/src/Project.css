@@ -1,0 +1,38 @@
+nav {
+  background-color: black;
+}
+ul {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  height: 65px;
+
+  color: white;
+}
+li {
+  padding: 0px 30px;
+}
+.lil {
+  margin-right: 900px;
+  font-size: 22px;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+.card {
+  width: 18rem;
+}
+/* .image-container {
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.image-item {
+  width: 80%;
+} */
+
+/* Adjust the flex-basis for different image positions
+.image-container img:nth-child(n + 5) {
+  flex-basis: 25%;
+} */

@@ -1,0 +1,9 @@
+ul {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+.link {
+  text-decoration: none;
+  margin-right: 10px;
+}
